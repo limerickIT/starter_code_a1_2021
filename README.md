@@ -1,3 +1,5 @@
+# *You must create a new project for this assignment.*
+
 # Snippets for Assignment One. :point_down:
 
 ### Vaccines entity class.
