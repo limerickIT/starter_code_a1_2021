@@ -33,7 +33,7 @@ public class Vaccines implements Serializable {
 ```
 
 ### Vaccinations entity class.
-```
+```java
 
 import java.io.Serializable;
 import java.util.Date;
